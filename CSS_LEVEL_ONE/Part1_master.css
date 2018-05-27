@@ -1,0 +1,24 @@
+/* Comments in CSS */
+/*
+selected tag {
+  property: value;
+}
+*/
+
+h1 {
+  color: #4c229f;
+  /* color: blue; (or something else...) */
+}
+
+li {
+  color: rgb(116, 20, 168);
+}
+
+
+h4 {
+  color: rgba(4, 135, 142, 0.5);
+}
+
+p {
+  color: #ff8300;
+}

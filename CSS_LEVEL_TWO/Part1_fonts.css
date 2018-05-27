@@ -1,0 +1,27 @@
+h1 {
+  font-family: 'Barrio';
+}
+p {
+  font-family: monospace;
+}
+/*
+1em = 14px.
+2em = 24px.
+*/
+body {
+  font-size: 14px;
+}
+
+#two {
+  font-size: 0.8em;
+  border: 0.3px dotted black;
+}
+
+p {
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+}

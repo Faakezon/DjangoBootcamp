@@ -1,0 +1,23 @@
+body {
+  background: url(https://www.atlantisbahamas.com/media/Things%20To%20Do/Water%20Park/Beaches/Hero/Experiences_Beach.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: top;
+}
+
+div {
+  background-color: rgb(175, 186, 255);
+  border-color: blue;
+  border-width: 0.1px;
+  border-style: dashed;
+  text-align: center;
+}
+
+p {
+  color: green;
+}
+
+span {
+  background: red;
+  color: black;
+}

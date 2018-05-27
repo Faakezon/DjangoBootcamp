@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  background-color: black;
+  width: 100px;
+  height: 250px;
+  padding: 15px;
+  border: 10px solid white;
+
+}
+
+#color_1 {
+  background-color: #75DBCD;
+}
+#color_2 {
+  background-color: #C9DBBA;
+}
+#color_3 {
+  background-color: #DCDBA8;
+}
+#color_4 {
+  background-color: #F5CDA7;
+}
+#color_5 {
+  background-color: #FAA381;
+}

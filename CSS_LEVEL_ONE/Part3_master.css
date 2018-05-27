@@ -1,0 +1,39 @@
+div {
+  color: red;
+}
+
+/* Classes always starts with a "." */
+.firstDiv {
+  color: blue;
+}
+
+.secondDiv {
+  color:magenta;
+}
+
+/* ID´s uses hashtags */
+#singledout {
+  color:green;
+  text-decoration: underline;
+}
+
+/* * is for every element on the page, wont work on ID´s */
+* {
+  /*color:black;*/
+}
+
+/* Any ul next to a h3 is affected */
+h3 + ul {
+  border: 4px dotted purple;
+}
+
+/* All anchor tags inside a list */
+li a{
+  color:red;
+}
+
+/* Any anchor tag inside a list with particular href */
+li a[href="www.google.se"] {
+  color:green;
+  border: 0.1px solid orange;
+}
